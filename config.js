@@ -25,3 +25,4 @@ module.exports = {
     ANTI_CALL: process.env.ANTI_CALL === undefined ? 'false' : process.env.ANTI_CALL, //TRUE OR FALSE
     AUTO_BLOCK: process.env.AUTO_BLOCK === undefined ? 'false' : process.env.AUTO_BLOCK //SET cmd FOR ONLY BLOCK INBOX COMMANDS USED USERS OR SET all FOR BLOCK ALL IINBOX USERS
 };
+
